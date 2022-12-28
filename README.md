@@ -89,11 +89,16 @@ print (txt.replace('H','J'))
 
 
 # Latihan 2
+Lengkapi kode berikut ini
+![ieaulhlifewufwufjdwfhlefwf](https://user-images.githubusercontent.com/116184002/209869571-d63d2ba5-14b9-43d8-98eb-c283079df334.png)
+untuk melengkapi kode diatas, menggunakan {0} untuk memanggil string
 ~~~
 umur = 24
 txt = "Hello, nama saya john, dan umur saya adalah {0} tahun"
 print (txt.format(umur))
 ~~~
-![Screenshot (49)](https://user-images.githubusercontent.com/116184002/209869174-f4178e07-3282-4c41-b61a-c92890a7f093.png)
+![Screenshot](https://user-images.githubusercontent.com/116184002/209869174-f4178e07-3282-4c41-b61a-c92890a7f093.png)
+
+Sekian Terima Kasih
 
 
