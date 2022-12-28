@@ -1,4 +1,9 @@
 # praktikum12
+Nama  : Muhamad David Ali
+
+NIM   :312210291
+
+Kelas : TI 22 A1
 
 # String 
 - String adalah jenis yang paling populer di Python. 
@@ -84,3 +89,11 @@ print (txt.replace('H','J'))
 
 
 # Latihan 2
+~~~
+umur = 24
+txt = "Hello, nama saya john, dan umur saya adalah {0} tahun"
+print (txt.format(umur))
+~~~
+![Screenshot (49)](https://user-images.githubusercontent.com/116184002/209869174-f4178e07-3282-4c41-b61a-c92890a7f093.png)
+
+
